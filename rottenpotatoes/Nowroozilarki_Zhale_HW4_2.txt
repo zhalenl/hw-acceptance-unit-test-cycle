@@ -1,0 +1,27 @@
+
+MoviesController
+  In the index page
+
+    Index route
+  In the add movie page
+    can direct to the add route
+    create new movie
+  In the delete movie page
+    can delete successfully
+  In the edit movie page
+    can direct to the edit route
+    can update correctly
+  In the more detail page
+    detail route
+  Find movies with same directors
+    it can direct to similar movie route
+    redirect to home page if movie does not have director
+    redirect to similar movie page if movie have director
+    return similar movies if two movies have same directors
+
+1 deprecation warning total
+
+Finished in 0.05884 seconds (files took 1.51 seconds to load)
+11 examples, 0 failures
+
+Coverage report generated for RSpec to /home/ec2-user/environment/hw-acceptance-unit-test-cycle/rottenpotatoes/coverage. 53 / 73 LOC (72.6%) covered.
